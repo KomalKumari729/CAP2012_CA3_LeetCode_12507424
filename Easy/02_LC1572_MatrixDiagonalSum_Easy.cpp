@@ -1,3 +1,4 @@
+// LeetCode 1572 - Matrix Diagonal Sum
 class Solution {
 public:
     int diagonalSum(vector<vector<int>>& mat) {
