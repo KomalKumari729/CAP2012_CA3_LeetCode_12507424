@@ -1,3 +1,4 @@
+// LeetCode 232 - Implement Queue using Stacks
 class MyQueue {
 private:
     stack<int> s1;
